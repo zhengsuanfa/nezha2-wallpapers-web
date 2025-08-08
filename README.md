@@ -12,7 +12,7 @@
 
 ## 🚀 在线预览
 
-[点击访问网站](https://your-netlify-url.netlify.app)
+[🌐 访问网站](https://nezha2.neovurge.com)
 
 ## 🛠️ 技术栈
 
