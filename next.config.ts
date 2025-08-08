@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  output: 'export',
+  trailingSlash: true,
   images: {
     domains: ['localhost'],
     unoptimized: true, // 禁用图片优化，直接使用原始图片
