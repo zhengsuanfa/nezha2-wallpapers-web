@@ -34,6 +34,9 @@ export default function HomePage() {
             <p className="text-xl text-white/80 text-shadow max-w-3xl mx-auto mb-4">
               精选《哪吒2》电影中的精美壁纸，点击图片即可下载
             </p>
+            <p className="text-sm text-white/60 text-shadow max-w-2xl mx-auto mb-4">
+              本项目已开源，开源地址：<a href="https://github.com/zhengsuanfa/nezha2-wallpapers-web" target="_blank" rel="noopener noreferrer" className="text-orange-300 hover:text-orange-200 underline">https://github.com/zhengsuanfa/nezha2-wallpapers-web</a>
+            </p>
           </div>
         </div>
 
